@@ -1,2 +1,2 @@
 # python-2
-using basic python program
+using basic html program
